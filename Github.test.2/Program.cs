@@ -6,6 +6,7 @@ namespace Github.test._2
     {
         static void Main(string[] args)
         {
+            // En liten kommentar...
             Console.WriteLine("Hello World!");
         }
     }
